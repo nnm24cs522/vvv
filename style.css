@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    font-size: larger;
+    background-color: rgb(218, 152, 106);
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    font-size: larger;
+    text-align: center;
+    color: color-mix(in srgb, color percentage, color percentage);
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: unset;
+    color: chartreuse;
+    background-color: cyan;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    font-size: larger;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: initial;
+    color: blanchedalmond;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: unset;
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: unset;
+    color: aquamarine;
+    text-align: center;
+}
